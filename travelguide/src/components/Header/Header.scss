@@ -1,0 +1,15 @@
+@import "../../scss/variables";
+
+@import url('https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+.header{
+    // font-family: 'Macondo Swash Caps', cursive;
+    // font-family: 'Six Caps', sans-serif;
+    font-family: 'New Rocker', cursive;
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 3px 3px 5px rgba(41, 185, 49, 0.493);
+}

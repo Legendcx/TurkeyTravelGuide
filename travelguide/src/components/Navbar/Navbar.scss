@@ -1,0 +1,37 @@
+@import "../../scss/variables", "../../scss/mixins";
+ 
+// @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+.Navbar{
+    background-color: $cardNavbarColor;
+    display: flex;
+    justify-content: space-evenly;
+    //  font-family: 'New Rocker', cursive;
+     font-family: 'Macondo Swash Caps', cursive;
+
+    a{
+        color: $backgroundColor;
+        text-decoration: none;
+        font-size: 2rem;
+        font-weight: bold;
+        padding: 1rem;
+        &:hover{
+            background-color: $backgroundColor;
+            color: $cardNavbarColor;
+        }
+    }
+}
+
+@include media-xsm{
+    .navbar{
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@include media-sm{
+    .navbar{
+        flex-direction: row;
+        
+    }
+}
