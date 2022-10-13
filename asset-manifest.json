@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TurkeyTravelGuide/static/css/main.038007c8.css",
-    "main.js": "/TurkeyTravelGuide/static/js/main.b013b46e.js",
+    "main.css": "/TurkeyTravelGuide/static/css/main.b6d13f4d.css",
+    "main.js": "/TurkeyTravelGuide/static/js/main.906d9feb.js",
     "static/js/787.6b230288.chunk.js": "/TurkeyTravelGuide/static/js/787.6b230288.chunk.js",
     "index.html": "/TurkeyTravelGuide/index.html",
-    "main.038007c8.css.map": "/TurkeyTravelGuide/static/css/main.038007c8.css.map",
-    "main.b013b46e.js.map": "/TurkeyTravelGuide/static/js/main.b013b46e.js.map",
+    "main.b6d13f4d.css.map": "/TurkeyTravelGuide/static/css/main.b6d13f4d.css.map",
+    "main.906d9feb.js.map": "/TurkeyTravelGuide/static/js/main.906d9feb.js.map",
     "787.6b230288.chunk.js.map": "/TurkeyTravelGuide/static/js/787.6b230288.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.038007c8.css",
-    "static/js/main.b013b46e.js"
+    "static/css/main.b6d13f4d.css",
+    "static/js/main.906d9feb.js"
   ]
 }
