@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![Form](./places.gif)
+![Form](./Animation.gif)
 
 ## Description
 
