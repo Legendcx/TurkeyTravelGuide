@@ -32,14 +32,24 @@ Image Gellery Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
-│    │       ├── Homepage.jsx
+│    │       ├── Header
+│    │       │    ├── Header.jsx
+│    │       │    ├── Header.scss
+│    │       ├── Main
+│    │       │    ├── Card.jsx
+│    │       │    ├── Main.jsx
+│    │       │    ├── Main.scss
+│    │       ├── Navbar
+│    │            ├── Navbar.jsx
+│    │            ├── Navbar.scss
 │    ├── helper
-│    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    │       ├── data.js
+│    ├── scss
+│    │       ├── _mixins.scss
+│    │       ├── _reset.scss
+│    │       ├── _variable.scss
 │    ├── App.js
+│    ├── App.scss
 │    ├── index.js
 └── package.json
 ```
